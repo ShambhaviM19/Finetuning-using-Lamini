@@ -57,4 +57,6 @@ llm.tune(data_or_dataset_id=data,
              'learning_rate':1.0e-4
          })
 
+## A link for the tuned model is generated like this- api.lamini.ai/tune/11528
+
 
